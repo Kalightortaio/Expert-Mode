@@ -1,0 +1,19 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:charcoal"
+        },
+        "title": "Filtered Water",
+        "description": "Combine a water bottle with a charcoal to filter the water",
+        "frame": "task",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "hidden": false
+    },
+    "parent": "expertmodethirstsystem:thirst/adv1",
+    "criteria": {
+        "DetectTwo": {
+            "trigger": "minecraft:tick"
+        }
+    }
+}

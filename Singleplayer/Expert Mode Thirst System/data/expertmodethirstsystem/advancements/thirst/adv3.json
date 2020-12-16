@@ -1,0 +1,19 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:snow_block"
+        },
+        "title": "Fresh Water",
+        "description": "Obtained by melting a snow block with an empty bottle",
+        "frame": "task",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "hidden": false
+    },
+    "parent": "expertmodethirstsystem:thirst/adv2",
+    "criteria": {
+        "DetectThree": {
+            "trigger": "minecraft:tick"
+        }
+    }
+}

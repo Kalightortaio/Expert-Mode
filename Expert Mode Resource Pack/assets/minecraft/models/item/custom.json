@@ -1,0 +1,13 @@
+{
+    "parent": "minecraft:block/cube_all",
+    "textures": {
+        "all": "minecraft:block/lava_still"
+    },
+    "display": {
+        "head": {
+            "rotation": [-30, 0, 0],
+            "translation": [0, -30.75, -7.25],
+            "scale": [3.03, 3.03, 3.03]
+        }
+    }
+}

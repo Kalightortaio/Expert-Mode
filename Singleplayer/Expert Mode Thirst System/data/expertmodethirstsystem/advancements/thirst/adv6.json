@@ -1,0 +1,19 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:blue_ice"
+        },
+        "title": "Pure Water",
+        "description": "Obtained by melting a blue ice block with an empty bottle",
+        "frame": "task",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "hidden": false
+    },
+    "parent": "expertmodethirstsystem:thirst/adv5",
+    "criteria": {
+        "DetectFive": {
+            "trigger": "minecraft:tick"
+        }
+    }
+}

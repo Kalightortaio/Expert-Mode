@@ -1,0 +1,15 @@
+{
+    "type": "crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:potion"
+        },
+        {
+            "item": "minecraft:charcoal"
+        }
+    ],
+    "result": {
+        "item": "minecraft:pig_spawn_egg",
+        "count": 1
+    }
+}

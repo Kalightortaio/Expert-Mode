@@ -1,0 +1,1 @@
+scoreboard players set @s EMLCL 1

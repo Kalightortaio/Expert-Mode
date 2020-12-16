@@ -1,0 +1,9 @@
+execute as @e[tag=findgrass] at @s if block ~ ~-1 ~ grass_block if block ~ ~ ~ #expertmodecore:air run tag @s add foundgrass
+execute as @e[tag=findgrass] at @s if block ~ ~-1 ~ coarse_dirt if block ~ ~ ~ #expertmodecore:air run tag @s add foundgrass
+execute as @e[tag=findgrass] at @s if block ~ ~-1 ~ stone if block ~ ~ ~ #expertmodecore:air run tag @s add foundgrass
+execute as @e[tag=findgrass] at @s if block ~ ~-1 ~ andesite if block ~ ~ ~ #expertmodecore:air run tag @s add foundgrass
+execute as @e[tag=findgrass] at @s if block ~ ~-1 ~ granite if block ~ ~ ~ #expertmodecore:air run tag @s add foundgrass
+execute as @e[tag=findgrass] at @s if block ~ ~-1 ~ diorite if block ~ ~ ~ #expertmodecore:air run tag @s add foundgrass
+execute as @e[tag=findgrass] at @s if block ~ ~-1 ~ sand if block ~ ~ ~ #expertmodecore:air run tag @s add foundgrass
+execute as @e[tag=findgrass] at @s if block ~ ~-1 ~ red_sand if block ~ ~ ~ #expertmodecore:air run tag @s add foundgrass
+execute as @e[tag=findgrass] at @s if block ~ ~-1 ~ gravel if block ~ ~ ~ #expertmodecore:air run tag @s add foundgrass

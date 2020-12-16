@@ -1,0 +1,1 @@
+scoreboard objectives add EMpunchtnt minecraft.mined:minecraft.tnt

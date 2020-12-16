@@ -1,0 +1,19 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:crafting_table"
+        },
+        "title": "Crafting Advice",
+        "description": "Due to datapack limitations, only craft a recipe one at a time!",
+        "frame": "task",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "hidden": false
+    },
+    "parent": "expertmodethirstsystem:thirst/root",
+    "criteria": {
+        "DetectOne": {
+            "trigger": "minecraft:tick"
+        }
+    }
+}

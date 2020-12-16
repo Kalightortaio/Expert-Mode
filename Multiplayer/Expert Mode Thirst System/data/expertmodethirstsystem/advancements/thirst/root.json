@@ -1,0 +1,17 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:glass_bottle"
+        },
+        "title": "The Thirst System",
+        "description": "Explore the world to craft better drinks!",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "background": "minecraft:textures/block/ice.png"
+    },
+    "criteria": {
+        "DetectRoot": {
+            "trigger": "minecraft:tick"
+        }
+    }
+}

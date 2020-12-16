@@ -1,0 +1,15 @@
+{
+    "type": "crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:glass_bottle"
+        },
+        {
+            "item": "minecraft:packed_ice"
+        }
+    ],
+    "result": {
+        "item": "minecraft:wolf_spawn_egg",
+        "count": 1
+    }
+}

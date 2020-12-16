@@ -1,0 +1,15 @@
+scoreboard objectives add EMfullLeather dummy
+scoreboard objectives add EMfullLeatherE dummy
+scoreboard objectives add EMfullChainmail dummy
+scoreboard objectives add EMfullChainmailE dummy
+scoreboard objectives add EMfullIron dummy
+scoreboard objectives add EMfullIronE dummy
+scoreboard objectives add EMfullGold dummy
+scoreboard objectives add EMfullGoldE dummy
+scoreboard objectives add EMfullDiamond dummy
+scoreboard objectives add EMfullDiamondE dummy
+scoreboard objectives add EMfullNetherite dummy
+scoreboard objectives add EMfullNetheriteE dummy
+scoreboard objectives add EMtotemCounter dummy
+scoreboard objectives add EMarmorMilk minecraft.used:minecraft.milk_bucket
+scoreboard objectives add EMrespawn minecraft.custom:minecraft.time_since_death

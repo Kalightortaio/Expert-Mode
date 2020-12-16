@@ -1,0 +1,19 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:water_bucket"
+        },
+        "title": "Water Bottles",
+        "description": "Water bottles come from any water source in the world",
+        "frame": "task",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "hidden": false
+    },
+    "parent": "expertmodethirstsystem:thirst/root",
+    "criteria": {
+        "DetectOne": {
+            "trigger": "minecraft:tick"
+        }
+    }
+}

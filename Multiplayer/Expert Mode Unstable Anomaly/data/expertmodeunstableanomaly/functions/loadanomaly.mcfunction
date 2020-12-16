@@ -1,0 +1,3 @@
+scoreboard objectives add EMcraftedUA minecraft.crafted:minecraft.enderman_spawn_egg
+scoreboard objectives add EMbedrock minecraft.used:minecraft.carrot_on_a_stick
+scoreboard objectives add EMdeathtimer dummy

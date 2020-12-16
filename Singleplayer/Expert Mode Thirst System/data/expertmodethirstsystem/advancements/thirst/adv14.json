@@ -1,0 +1,19 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:cobweb"
+        },
+        "title": "Parched",
+        "description": "Running will become difficult",
+        "frame": "task",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "hidden": false
+    },
+    "parent": "expertmodethirstsystem:thirst/adv13",
+    "criteria": {
+        "DetectOne": {
+            "trigger": "minecraft:tick"
+        }
+    }
+}

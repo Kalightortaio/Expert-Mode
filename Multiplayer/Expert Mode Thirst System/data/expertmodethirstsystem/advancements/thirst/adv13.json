@@ -1,0 +1,19 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:dead_bush"
+        },
+        "title": "Thirsty",
+        "description": "You will not recover health normally",
+        "frame": "task",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "hidden": false
+    },
+    "parent": "expertmodethirstsystem:thirst/adv11",
+    "criteria": {
+        "DetectOne": {
+            "trigger": "minecraft:tick"
+        }
+    }
+}

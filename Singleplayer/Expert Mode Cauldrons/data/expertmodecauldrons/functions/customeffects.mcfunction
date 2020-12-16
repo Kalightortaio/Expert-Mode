@@ -1,0 +1,3 @@
+execute as @e[type=player,gamemode=survival,nbt={ActiveEffects:[{Id:26b,Amplifier:0b}]}] at @s if block ~ ~-1 ~ air run gamemode spectator
+execute as @e[type=player,gamemode=spectator,nbt={ActiveEffects:[{Id:26b,Amplifier:0b}]}] at @s unless block ~ ~-1 ~ air run gamemode survival
+execute as @e[type=player,gamemode=spectator,nbt={ActiveEffects:[{Id:26b,Amplifier:0b,Duration:1}]}] run gamemode survival

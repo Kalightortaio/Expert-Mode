@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#D#",
+        "DND",
+        "#D#"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:crying_obsidian"
+        },
+        "D": {
+            "item": "minecraft:netherite_block"
+        },
+        "N": {
+            "item": "minecraft:nether_star"
+        }
+    },
+    "result": {
+        "item": "minecraft:enderman_spawn_egg",
+        "count": 1
+    }
+}

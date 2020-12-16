@@ -1,0 +1,19 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:potion"
+        },
+        "title": "Hydration",
+        "description": "You can check your hydration by holding any bottle",
+        "frame": "task",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "hidden": false
+    },
+    "parent": "expertmodethirstsystem:thirst/aadv2",
+    "criteria": {
+        "DetectOne": {
+            "trigger": "minecraft:tick"
+        }
+    }
+}

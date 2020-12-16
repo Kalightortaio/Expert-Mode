@@ -1,0 +1,15 @@
+{
+    "type": "crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:glass_bottle"
+        },
+        {
+            "item": "minecraft:snow_block"
+        }
+    ],
+    "result": {
+        "item": "minecraft:cow_spawn_egg",
+        "count": 1
+    }
+}

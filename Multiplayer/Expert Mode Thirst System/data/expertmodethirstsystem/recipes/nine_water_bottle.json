@@ -1,0 +1,15 @@
+{
+    "type": "crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:dragon_breath"
+        },
+        {
+            "item": "minecraft:nether_star"
+        }
+    ],
+    "result": {
+        "item": "minecraft:salmon_spawn_egg",
+        "count": 1
+    }
+}

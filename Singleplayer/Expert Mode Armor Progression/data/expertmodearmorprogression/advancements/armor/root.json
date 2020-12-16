@@ -1,0 +1,17 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:anvil"
+        },
+        "title": "Armor Progression",
+        "description": "Defeat monsters to unlock better equipment!",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "background": "minecraft:textures/block/mossy_cobblestone.png"
+    },
+    "criteria": {
+        "loadroot": {
+            "trigger": "minecraft:tick"
+        }
+    }
+}

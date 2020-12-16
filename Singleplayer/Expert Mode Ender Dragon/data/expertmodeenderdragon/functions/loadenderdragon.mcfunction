@@ -1,0 +1,2 @@
+scoreboard objectives add EMendermanNum dummy
+scoreboard objectives add EMenderdragonNum dummy

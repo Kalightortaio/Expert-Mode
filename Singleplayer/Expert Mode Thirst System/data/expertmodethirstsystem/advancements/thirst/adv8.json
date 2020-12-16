@@ -1,0 +1,19 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:enchanted_golden_apple"
+        },
+        "title": "Enchanted Water",
+        "description": "Obtained by juicing an enchanted golden apple with an empty bottle",
+        "frame": "task",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "hidden": false
+    },
+    "parent": "expertmodethirstsystem:thirst/adv7",
+    "criteria": {
+        "DetectFive": {
+            "trigger": "minecraft:tick"
+        }
+    }
+}

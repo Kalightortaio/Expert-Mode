@@ -1,0 +1,27 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:diamond_helmet"
+        },
+        "title": "Diamond Armor",
+        "description": "Conquer the Ender Dragon herself!",
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "parent": "expertmodearmorprogression:armor/adv4",
+    "criteria": {
+        "ProgDiamond": {
+            "trigger": "minecraft:player_killed_entity",
+            "conditions": {
+                "entity": {
+                    "type": "minecraft:ender_dragon"
+                }
+            }
+        }
+    },
+    "rewards": {
+        "function": "expertmodearmorprogression:adv5"
+    }
+}

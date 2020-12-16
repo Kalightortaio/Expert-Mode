@@ -1,0 +1,1 @@
+execute as @e[tag=blackhole] at @s if score @s EMbhlife matches ..0 run kill @e[tag=blackhole]

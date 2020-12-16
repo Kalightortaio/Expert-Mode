@@ -1,0 +1,15 @@
+{
+    "type": "crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:glass_bottle"
+        },
+        {
+            "item": "minecraft:enchanted_golden_apple"
+        }
+    ],
+    "result": {
+        "item": "minecraft:mooshroom_spawn_egg",
+        "count": 1
+    }
+}

@@ -1,0 +1,2 @@
+scoreboard objectives add EMplacecaul minecraft.used:minecraft.cauldron
+scoreboard objectives add EMbowl minecraft.custom:minecraft.talked_to_villager

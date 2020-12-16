@@ -1,0 +1,19 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:ice"
+        },
+        "title": "Chilled Water",
+        "description": "Obtained by melting an ice block with an empty bottle",
+        "frame": "task",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "hidden": false
+    },
+    "parent": "expertmodethirstsystem:thirst/adv3",
+    "criteria": {
+        "DetectFour": {
+            "trigger": "minecraft:tick"
+        }
+    }
+}

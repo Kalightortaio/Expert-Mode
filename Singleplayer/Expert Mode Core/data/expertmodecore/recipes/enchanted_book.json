@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:smithing",
+    "base": {
+        "item": "minecraft:writable_book"
+    },
+    "addition": {
+        "item": "minecraft:knowledge_book"
+    },
+    "result": {
+        "item": "minecraft:enchanted_book"
+    }
+}
